@@ -15,3 +15,5 @@ features:
   - title: 开始做菜吗
     details: 好
 ---
+
+<RandomRecipe />
